@@ -1,0 +1,46 @@
+body{
+  margin: auto;
+}
+
+
+h1{
+  margin-top: ;
+}
+div{
+  background-color:#54BAB9;
+}
+.container{
+background-color:gold;
+height: 1000px;
+width: 1000px;
+position: fixed;
+}
+.top-container{
+  background-color: red;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+
+
+
+}
+.middle-container{
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  display: inline-block;
+  position: relative;
+  bottom:50px;
+
+
+}
+.bottom-container{
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+display: inline-block;
+position: relative;
+  bottom:50px;
+
+}
